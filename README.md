@@ -1,2 +1,3 @@
 # Sample-WASM-App
-A simple WASM app served by through Go
+This simple WASM app uses a C `.wasm` binary and some javascript injection to perform a basic operation.
+
